@@ -4,8 +4,8 @@ This Python project can be used as a corresponding web crawler from a specific U
 
 ## Features
 
-- Downloads a wealth of HTML from a URL.
-- Finds links in downloaded HTML content and adds URL to visit them.
+- Searches a large number of HTML from a URL.
+- Finds links in the explored HTML content and adds URLs to visit them.
 - You can set the maximum depth level.
 - Keeps a list of visited URLs and does not revisit the same URL.
 - There are appropriate error message and exception handling elements for error handling.
