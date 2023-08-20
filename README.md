@@ -25,3 +25,7 @@ This Python project can be used as a corresponding web crawler from a specific U
 4. Run the crawler Python file::
    ```bash
    python crawler.py
+
+## Support me
+
+<a href="https://www.buymeacoffee.com/SmakeMeMo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee">
